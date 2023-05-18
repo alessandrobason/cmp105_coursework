@@ -1,0 +1,732 @@
+{ "columns":24,
+ "image":"Assets/zelda outdoor tileset.png",
+ "imageheight":304,
+ "imagewidth":384,
+ "margin":0,
+ "name":"linksAwakeningOutdoors",
+ "spacing":0,
+ "terrains":[
+        {
+         "name":"grass1",
+         "tile":220
+        }, 
+        {
+         "name":"grass2",
+         "tile":217
+        }, 
+        {
+         "name":"path1",
+         "tile":145
+        }, 
+        {
+         "name":"path2",
+         "tile":148
+        }, 
+        {
+         "name":"darkfoliage",
+         "tile":332
+        }, 
+        {
+         "name":"Nuovo terreno",
+         "tile":289
+        }],
+ "tilecount":456,
+ "tileheight":16,
+ "tiles":
+    {
+     "120":
+        {
+         "terrain":[-1, -1, -1, 2]
+        },
+     "121":
+        {
+         "terrain":[-1, -1, 2, 2]
+        },
+     "122":
+        {
+         "terrain":[-1, -1, 2, -1]
+        },
+     "123":
+        {
+         "terrain":[-1, -1, -1, 3]
+        },
+     "124":
+        {
+         "terrain":[-1, -1, 3, 3]
+        },
+     "125":
+        {
+         "terrain":[-1, -1, 3, -1]
+        },
+     "126":
+        {
+         "terrain":[1, 1, 1, -1]
+        },
+     "127":
+        {
+         "terrain":[1, 1, -1, 1]
+        },
+     "144":
+        {
+         "terrain":[-1, 2, -1, 2]
+        },
+     "145":
+        {
+         "terrain":[2, 2, 2, 2]
+        },
+     "146":
+        {
+         "terrain":[2, -1, 2, -1]
+        },
+     "147":
+        {
+         "terrain":[-1, 3, -1, 3]
+        },
+     "148":
+        {
+         "terrain":[3, 3, 3, 3]
+        },
+     "149":
+        {
+         "terrain":[3, -1, 3, -1]
+        },
+     "150":
+        {
+         "terrain":[1, -1, 1, 1]
+        },
+     "151":
+        {
+         "terrain":[-1, 1, 1, 1]
+        },
+     "168":
+        {
+         "terrain":[-1, 2, -1, -1]
+        },
+     "169":
+        {
+         "terrain":[2, 2, -1, -1]
+        },
+     "170":
+        {
+         "terrain":[2, -1, -1, -1]
+        },
+     "171":
+        {
+         "terrain":[-1, 3, -1, -1]
+        },
+     "172":
+        {
+         "terrain":[3, 3, -1, -1]
+        },
+     "173":
+        {
+         "terrain":[3, -1, -1, -1]
+        },
+     "174":
+        {
+         "terrain":[0, 0, 0, -1]
+        },
+     "175":
+        {
+         "terrain":[0, 0, -1, 0]
+        },
+     "192":
+        {
+         "terrain":[-1, -1, -1, 1]
+        },
+     "193":
+        {
+         "terrain":[-1, -1, 1, 1]
+        },
+     "194":
+        {
+         "terrain":[-1, -1, 1, -1]
+        },
+     "195":
+        {
+         "terrain":[-1, -1, -1, 0]
+        },
+     "196":
+        {
+         "terrain":[-1, -1, 0, 0]
+        },
+     "197":
+        {
+         "terrain":[-1, -1, 0, -1]
+        },
+     "198":
+        {
+         "terrain":[0, -1, 0, 0]
+        },
+     "199":
+        {
+         "terrain":[-1, 0, 0, 0]
+        },
+     "216":
+        {
+         "terrain":[-1, 1, -1, 1]
+        },
+     "217":
+        {
+         "terrain":[1, 1, 1, 1]
+        },
+     "218":
+        {
+         "terrain":[1, -1, 1, -1]
+        },
+     "219":
+        {
+         "terrain":[-1, 0, -1, 0]
+        },
+     "220":
+        {
+         "terrain":[0, 0, 0, 0]
+        },
+     "221":
+        {
+         "terrain":[0, -1, 0, -1]
+        },
+     "240":
+        {
+         "terrain":[-1, 1, -1, -1]
+        },
+     "241":
+        {
+         "terrain":[1, 1, -1, -1]
+        },
+     "242":
+        {
+         "terrain":[1, -1, -1, -1]
+        },
+     "243":
+        {
+         "terrain":[-1, 0, -1, -1]
+        },
+     "244":
+        {
+         "terrain":[0, 0, -1, -1]
+        },
+     "245":
+        {
+         "terrain":[0, -1, -1, -1]
+        },
+     "262":
+        {
+         "terrain":[4, 4, 4, -1]
+        },
+     "263":
+        {
+         "terrain":[4, 4, -1, 4]
+        },
+     "264":
+        {
+         "terrain":[-1, -1, -1, 5]
+        },
+     "265":
+        {
+         "terrain":[-1, -1, 5, 5]
+        },
+     "266":
+        {
+         "terrain":[-1, -1, 5, -1]
+        },
+     "267":
+        {
+         "terrain":[5, 5, 5, -1]
+        },
+     "268":
+        {
+         "terrain":[5, 5, -1, 5]
+        },
+     "286":
+        {
+         "terrain":[4, -1, 4, 4]
+        },
+     "287":
+        {
+         "terrain":[-1, 4, 4, 4]
+        },
+     "288":
+        {
+         "terrain":[-1, 5, -1, 5]
+        },
+     "290":
+        {
+         "terrain":[5, -1, 5, -1]
+        },
+     "291":
+        {
+         "terrain":[5, -1, 5, 5]
+        },
+     "292":
+        {
+         "terrain":[-1, 5, 5, 5]
+        },
+     "307":
+        {
+         "terrain":[-1, -1, -1, 4]
+        },
+     "308":
+        {
+         "terrain":[-1, -1, 4, 4]
+        },
+     "309":
+        {
+         "terrain":[-1, -1, 4, -1]
+        },
+     "310":
+        {
+         "animation":[
+                {
+                 "duration":300,
+                 "tileid":310
+                }, 
+                {
+                 "duration":300,
+                 "tileid":311
+                }, 
+                {
+                 "duration":300,
+                 "tileid":334
+                }, 
+                {
+                 "duration":300,
+                 "tileid":335
+                }]
+        },
+     "312":
+        {
+         "terrain":[-1, 5, -1, -1]
+        },
+     "313":
+        {
+         "terrain":[5, 5, -1, -1]
+        },
+     "314":
+        {
+         "terrain":[5, -1, -1, -1]
+        },
+     "331":
+        {
+         "terrain":[-1, 4, -1, 4]
+        },
+     "332":
+        {
+         "terrain":[4, 4, 4, 4]
+        },
+     "333":
+        {
+         "terrain":[4, -1, 4, -1]
+        },
+     "355":
+        {
+         "terrain":[-1, 4, -1, -1]
+        },
+     "356":
+        {
+         "terrain":[4, 4, -1, -1]
+        },
+     "357":
+        {
+         "terrain":[4, -1, -1, -1]
+        },
+     "358":
+        {
+         "animation":[
+                {
+                 "duration":100,
+                 "tileid":358
+                }, 
+                {
+                 "duration":100,
+                 "tileid":359
+                }, 
+                {
+                 "duration":100,
+                 "tileid":382
+                }, 
+                {
+                 "duration":100,
+                 "tileid":383
+                }]
+        },
+     "368":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":368
+                }, 
+                {
+                 "duration":400,
+                 "tileid":369
+                }, 
+                {
+                 "duration":400,
+                 "tileid":370
+                }, 
+                {
+                 "duration":400,
+                 "tileid":371
+                }]
+        },
+     "374":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":374
+                }, 
+                {
+                 "duration":400,
+                 "tileid":375
+                }, 
+                {
+                 "duration":400,
+                 "tileid":376
+                }, 
+                {
+                 "duration":400,
+                 "tileid":377
+                }]
+        },
+     "378":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":378
+                }, 
+                {
+                 "duration":400,
+                 "tileid":379
+                }, 
+                {
+                 "duration":400,
+                 "tileid":380
+                }, 
+                {
+                 "duration":400,
+                 "tileid":381
+                }]
+        },
+     "384":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":384
+                }, 
+                {
+                 "duration":400,
+                 "tileid":385
+                }, 
+                {
+                 "duration":400,
+                 "tileid":386
+                }, 
+                {
+                 "duration":400,
+                 "tileid":387
+                }]
+        },
+     "388":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":388
+                }, 
+                {
+                 "duration":400,
+                 "tileid":390
+                }, 
+                {
+                 "duration":400,
+                 "tileid":389
+                }, 
+                {
+                 "duration":400,
+                 "tileid":390
+                }]
+        },
+     "392":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":392
+                }, 
+                {
+                 "duration":400,
+                 "tileid":393
+                }, 
+                {
+                 "duration":400,
+                 "tileid":394
+                }, 
+                {
+                 "duration":400,
+                 "tileid":395
+                }]
+        },
+     "396":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":396
+                }, 
+                {
+                 "duration":400,
+                 "tileid":397
+                }, 
+                {
+                 "duration":400,
+                 "tileid":398
+                }, 
+                {
+                 "duration":400,
+                 "tileid":399
+                }]
+        },
+     "400":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":400
+                }, 
+                {
+                 "duration":400,
+                 "tileid":401
+                }, 
+                {
+                 "duration":400,
+                 "tileid":402
+                }, 
+                {
+                 "duration":400,
+                 "tileid":403
+                }]
+        },
+     "404":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":404
+                }, 
+                {
+                 "duration":400,
+                 "tileid":405
+                }, 
+                {
+                 "duration":400,
+                 "tileid":406
+                }, 
+                {
+                 "duration":400,
+                 "tileid":407
+                }]
+        },
+     "408":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":408
+                }, 
+                {
+                 "duration":400,
+                 "tileid":409
+                }, 
+                {
+                 "duration":400,
+                 "tileid":410
+                }, 
+                {
+                 "duration":400,
+                 "tileid":411
+                }]
+        },
+     "412":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":412
+                }, 
+                {
+                 "duration":400,
+                 "tileid":413
+                }, 
+                {
+                 "duration":400,
+                 "tileid":414
+                }, 
+                {
+                 "duration":400,
+                 "tileid":415
+                }]
+        },
+     "416":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":416
+                }, 
+                {
+                 "duration":400,
+                 "tileid":417
+                }, 
+                {
+                 "duration":400,
+                 "tileid":418
+                }, 
+                {
+                 "duration":400,
+                 "tileid":419
+                }]
+        },
+     "420":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":420
+                }, 
+                {
+                 "duration":400,
+                 "tileid":421
+                }, 
+                {
+                 "duration":400,
+                 "tileid":422
+                }, 
+                {
+                 "duration":400,
+                 "tileid":423
+                }]
+        },
+     "424":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":424
+                }, 
+                {
+                 "duration":400,
+                 "tileid":425
+                }, 
+                {
+                 "duration":400,
+                 "tileid":426
+                }, 
+                {
+                 "duration":400,
+                 "tileid":427
+                }]
+        },
+     "428":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":428
+                }, 
+                {
+                 "duration":400,
+                 "tileid":429
+                }, 
+                {
+                 "duration":400,
+                 "tileid":430
+                }, 
+                {
+                 "duration":400,
+                 "tileid":431
+                }]
+        },
+     "432":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":432
+                }, 
+                {
+                 "duration":400,
+                 "tileid":433
+                }, 
+                {
+                 "duration":400,
+                 "tileid":434
+                }, 
+                {
+                 "duration":400,
+                 "tileid":435
+                }]
+        },
+     "436":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":436
+                }, 
+                {
+                 "duration":400,
+                 "tileid":437
+                }, 
+                {
+                 "duration":400,
+                 "tileid":438
+                }, 
+                {
+                 "duration":400,
+                 "tileid":439
+                }]
+        },
+     "440":
+        {
+         "animation":[
+                {
+                 "duration":400,
+                 "tileid":440
+                }, 
+                {
+                 "duration":400,
+                 "tileid":441
+                }, 
+                {
+                 "duration":400,
+                 "tileid":442
+                }, 
+                {
+                 "duration":400,
+                 "tileid":443
+                }]
+        },
+     "444":
+        {
+         "terrain":[2, 2, 2, -1]
+        },
+     "445":
+        {
+         "terrain":[2, 2, -1, 2]
+        },
+     "446":
+        {
+         "terrain":[2, -1, 2, 2]
+        },
+     "447":
+        {
+         "terrain":[-1, 2, 2, 2]
+        }
+    },
+ "tilewidth":16,
+ "type":"tileset"
+}

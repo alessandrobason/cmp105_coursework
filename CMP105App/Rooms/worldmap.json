@@ -1,0 +1,41 @@
+{
+  "width": 5,
+  "height": 8,
+  "spawn": {
+    "map": 2,
+    "position": [240, 208]
+  },
+  "Levels": [ 
+  "map cascata", 
+  "map alto dx", 
+  "map segreto 1" 
+  "map", 
+  "map desert",
+  "map passaggio segreto 3",
+  "map spiaggia",
+  "map passaggio deserto spiaggia",
+  "map passaggio segreto 2",
+  "map segreto 5",
+  "map isola sx",
+  "map isola",
+  "map isola dx",
+  "map segreto 4",
+  "map isola bassa",
+  "map isola blu sx",
+  "map isola blu",
+  "map segreto ghiaccio 1",
+  "map passaggio isola blu",
+  "map isola blu bassa",
+  "plateau"
+  ],
+  "map": [
+    -1, -1, 20, -1, -1,
+    -1, -1,  0,  1, -1,
+	-1,  2,  3,  4, -1,
+	-1,  5,  6,  7,  8,
+	 9, 10, 11, 12, 13,
+	-1, -1, 14, -1, -1,
+	-1, 15, 16, 17, -1,
+	-1, 18, 19, -1, -1
+  ]
+  }

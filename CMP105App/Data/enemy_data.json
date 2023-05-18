@@ -1,0 +1,77 @@
+{
+  "spritesheet": "Assets/enemies.png",
+  "enemies": [
+    {
+      "animations": [
+        {
+          "name": "idle up",
+          "array": [ 4 ],
+          "speed": 0.0,
+          "looping": false
+        },
+        {
+          "name": "idle down",
+          "array": [ 2 ],
+          "speed": 0.0,
+          "looping": false
+        },
+        {
+          "name": "idle left",
+          "array": [ 0 ],
+          "speed": 0.0,
+          "looping": false
+        },
+        {
+          "name": "idle right",
+          "array": [ 6 ],
+          "speed": 0.0,
+          "looping": false
+        },
+        {
+          "name": "walk up",
+          "array": [ 5, 4 ],
+          "speed": 0.2,
+          "looping": true
+        },
+        {
+          "name": "walk down",
+          "array": [ 3, 2 ],
+          "speed": 0.2,
+          "looping": true
+        },
+        {
+          "name": "walk left",
+          "array": [ 1, 0 ],
+          "speed": 0.2,
+          "looping": true
+        },
+        {
+          "name": "walk right",
+          "array": [ 7, 6 ],
+          "speed": 0.2,
+          "looping": true
+        },
+        {
+          "name": "death",
+          "array": [ 8, 9, 9, 8, 10, 11, 11, 10, 10, 11, 12, 12, 12 ],
+          "speed": 0.05,
+          "looping": false
+        }
+      ],
+      "collision": {
+        "x": 0,
+        "y": 0,
+        "width": 16,
+        "height": 16
+      },
+      "columns": 8,
+      "damage": 49.0,
+      "life": 100.0,
+      "name": "octorock",
+      "projectile": true,
+      "rows": 3,
+      "speed": 50,
+      "texture rect": [ 0, 0, 128, 32 ]
+    }
+  ]
+}

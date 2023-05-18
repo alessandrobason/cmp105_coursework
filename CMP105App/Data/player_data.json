@@ -1,0 +1,128 @@
+{
+  "spritesheet": {
+    "image": "Assets/main.png",
+    "rows": 5,
+    "columns": 12
+  },
+  "animations": [
+    {
+      "name": "idle up-right",
+      "array": [ 12 ],
+      "speed": 0.0,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "idle up-left",
+      "array": [ 18 ],
+      "speed": 0.0,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "idle down-right",
+      "array": [ 0 ],
+      "speed": 0.0,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "idle down-left",
+      "array": [ 6 ],
+      "speed": 0.0,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "walk up-right",
+      "array": [ 13, 14, 17, 12, 15, 16, 17 ],
+      "speed": 0.1,
+      "looping": true,
+      "flipped": false
+    },
+    {
+      "name": "walk up-left",
+      "array": [ 19, 20, 23, 18, 21, 22, 23 ],
+      "speed": 0.1,
+      "looping": true,
+      "flipped": false
+    },
+    {
+      "name": "walk down-right",
+      "array": [ 1, 2, 5, 0, 3, 4, 5 ],
+      "speed": 0.1,
+      "looping": true,
+      "flipped": false
+    },
+    {
+      "name": "walk down-left",
+      "array": [ 7, 8, 11, 6, 9, 10, 11 ],
+      "speed": 0.1,
+      "looping": true,
+      "flipped": false
+    },
+    {
+      "name": "death",
+      "array": [ 24, 25, 26 ],
+      "speed": 0.8,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "dodge up-right",
+      "array": [ 43, 44, 44, 45, 46, 47, 48, 49, 50 ],
+      "speed": 0.08,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "dodge up-left",
+      "array": [ 51, 52, 52, 53, 54, 55, 56, 57, 58 ],
+      "speed": 0.08,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "dodge down-right",
+      "array": [ 27, 28, 28, 29, 30, 31, 32, 33, 34 ],
+      "speed": 0.08,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "dodge down-left",
+      "array": [ 35, 36, 36, 37, 38, 39, 40, 41, 42 ],
+      "speed": 0.08,
+      "looping": false,
+      "flipped": false
+    },
+    {
+      "name": "get puzzle piece",
+      "array": [ 59 ],
+      "speed": 3.0,
+      "looping": false,
+      "flipped": false
+    }
+  ],
+  "speed": 100,
+  "life": 100.0,
+  "collision": {
+    "x": 2,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  "weapons": {
+    "spritesheet": "Assets/weapons.png",
+    "rows": 1,
+    "columns": 2,
+    "bow": {
+      "texture coordinates": [ 0, 0 ],
+      "base_damage": 25.0
+    },
+    "arrow": {
+      "texture coordinates": [ 16, 0 ],
+      "hitbox":  [0, 0, 6, 6]
+    }
+  }
+  }

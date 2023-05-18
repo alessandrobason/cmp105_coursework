@@ -1,0 +1,114 @@
+{
+  "sounds": [
+    {
+      "file": "crash_1.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "crash_2.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "crash_3.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "crash_4.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "crash_5.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "crash_6.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "crash_7.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "cymbal_1.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "cymbal_2.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "cymbal_3.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "cymbal_4.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "cymbal_5.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "cymbal_6.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_1.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_2.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_3.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_4.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_5.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_6.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_7.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_8.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_9.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "hi-hat_10.ogg",
+      "name": "hit"
+    },
+    {
+      "file": "level-up-sound.ogg",
+      "name": "level-up"
+    }
+  ],
+  "music": [
+    {
+      "file": "Bill Evans - Someday My Prince Will Come.ogg",
+      "name": "menu"
+    },
+    {
+      "file": "Solo de batterie - Art Blakey (1959) - Jazz drum solo.ogg",
+      "name": "game"
+    },
+    {
+      "file": "Thelonious Monk - Im Confessin (That I Love You).ogg",
+      "name": "ending"
+    }
+  ]
+}
